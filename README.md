@@ -1,1 +1,2 @@
-下からあったやつ
+# kotlin template with Bazel
+
